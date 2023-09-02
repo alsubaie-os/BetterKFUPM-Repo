@@ -24,7 +24,9 @@ BetterKFUPM is an online website that enables KFUPM students, faculty, and visit
 
 ## Back-End
 >- NodeJS
+>- ExpressJS
 >- Supabase
+>- JWT
 
 
 # Repository Structure
